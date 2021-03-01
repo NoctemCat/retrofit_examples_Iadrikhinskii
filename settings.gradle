@@ -1,0 +1,4 @@
+include ':flowers'
+include ':jsontest'
+include ':umori'
+rootProject.name = "retrofit_examples_Iadrikhinskii"
